@@ -1,3 +1,6 @@
 python
 numpy
 pandas
+scikitlearn
+pytorch
+tensorflow
