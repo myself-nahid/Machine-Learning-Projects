@@ -5,3 +5,4 @@ Welcome to the ML Projects for Resume repository! This repository contains machi
 - Diabetes Prediction
 - Iris
 - Project 3
+- Project 4 - Fertilizer Prediction
